@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mentor Sessions/Mentor Sessions.iml" filepath="$PROJECT_DIR$/Mentor Sessions/Mentor Sessions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mindtree_Internship_by_VetrivelSir.iml" filepath="$PROJECT_DIR$/.idea/Mindtree_Internship_by_VetrivelSir.iml" />
+    </modules>
+  </component>
+</project>
