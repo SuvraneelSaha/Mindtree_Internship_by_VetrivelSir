@@ -3,7 +3,7 @@ package Week1.ArraysBasic;
 import java.util.ArrayList;
 import java.util.Scanner;
 // Array Deletion
-// Write a program to delete an element from an array.  
+// Write a program to delete an element from an array.
 
 public class O6 {
     public static void main(String[] args) {
