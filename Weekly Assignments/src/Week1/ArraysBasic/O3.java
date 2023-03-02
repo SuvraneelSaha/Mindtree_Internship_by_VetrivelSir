@@ -18,6 +18,6 @@ public class O3 {
         int count = 0;
         
         }
-        System.out.println(count);
+
     }
-}
+
