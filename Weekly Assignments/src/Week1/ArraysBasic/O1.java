@@ -1,7 +1,7 @@
 package Week1.ArraysBasic;
 
 import java.util.Scanner;
-// Sum of Arrays 
+// Sum of Arrays
 public class O1 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
