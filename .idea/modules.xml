@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Mentor Sessions/Mentor Sessions.iml" filepath="$PROJECT_DIR$/Mentor Sessions/Mentor Sessions.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Mindtree_Internship_by_VetrivelSir.iml" filepath="$PROJECT_DIR$/.idea/Mindtree_Internship_by_VetrivelSir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Weekly Assignments/Weekly Assignments.iml" filepath="$PROJECT_DIR$/Weekly Assignments/Weekly Assignments.iml" />
     </modules>
   </component>
