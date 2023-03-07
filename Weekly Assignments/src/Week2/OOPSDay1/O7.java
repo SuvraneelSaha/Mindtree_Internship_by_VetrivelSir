@@ -1,6 +1,7 @@
 package Week2.OOPSDay1;
 
 import java.util.Scanner;
+//  Data Encapsulation and Static Keywords - Design 3
 
 public class O7 {
     public static void main(String[] args) {
