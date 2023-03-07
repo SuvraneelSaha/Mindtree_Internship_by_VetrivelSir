@@ -1,4 +1,4 @@
-package Week1.Pattern;
+package Week1.ForLoopPatterns;
 
 import java.util.Scanner;
 
