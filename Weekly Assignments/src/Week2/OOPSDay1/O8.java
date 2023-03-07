@@ -58,6 +58,8 @@ public class O8 {
 }
 class Ticket
 {
+
+    
    private int ticketid;
     private int price;
     private static int totalnooftickets;
