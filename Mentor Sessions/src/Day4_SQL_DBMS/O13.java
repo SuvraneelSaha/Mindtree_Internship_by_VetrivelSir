@@ -1,4 +1,4 @@
-package Day4;
+package Day4_SQL_DBMS;
 
 public class O13 {
     /*
@@ -23,7 +23,7 @@ public class O13 {
     the p1 table will have values from the post tables
 
 
-    
+
 
 
 

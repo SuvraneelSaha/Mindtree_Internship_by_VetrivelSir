@@ -1,4 +1,4 @@
-package Day4;
+package Day4_SQL_DBMS;
 
 public class O3 {
     /*
