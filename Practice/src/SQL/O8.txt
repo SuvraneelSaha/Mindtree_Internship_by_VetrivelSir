@@ -1,0 +1,31 @@
+case operator
+
+select SaleDate , Amount,
+case when amount<1000 then 'Under 1k'
+	 when amount <5000 then 'Under 5k'
+     when amount < 10000 then 'Under 10k'
+     else
+     '10k or more'
+     end as 'Amount Category'
+	from sales;
+
+
+	// this is very helpful when we are trying to
+	build categorization based on our data
+	either using numeric values or using text values
+	so that we can display or use it to build a where condition
+	or map it out to another table ;
+
+	Q: Based on Customers
+	ans - select SPID , Amount , Customers,
+          case when Customers<100 then 'Steel'
+          	 when Customers<500 then 'Bronze'
+               when Customers<1000 then 'Silver'
+               when Customers<5000 then 'Gold'
+               when Customers < 10000 then 'Diamond'
+               else
+               'JODD'
+               end as 'Customer Category'
+               from sales
+               order by Customers desc;
+                

@@ -1,0 +1,23 @@
+PATTERN MATCHING by using like operator
+
+Q: select salesperson where their names start with B
+ans
+select * from people
+where salesperson like 'B%';
+
+Pattern or finding a letter in a name is done by like
+operator
+and using '%B' or names ending with B
+or 'B%' starting with B
+
+
+
+q: select salesperson where their name has B in it
+ans
+select * from people
+where salesperson like '%B%';
+
+so %B - ending with B
+b% - starting with b
+
+

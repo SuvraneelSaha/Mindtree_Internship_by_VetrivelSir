@@ -1,2 +1,28 @@
 USING MULTIPLE TABLES
 
+in order to describe a table
+we use
+either desc or describe command
+ex - desc people ;
+or describe people;
+
+Q : select rows where people work in delish
+and jucies
+
+ans - select * from people
+      where team ='Delish' or team = 'Jucies';
+
+if there are 5 -7 values in case of team
+then writting or is not applicable
+
+this is where we use IN CLAUSE
+
+ex - select * from people
+     where team in ('Delish','Jucies');
+as it is text values everything needs to be in ''
+single quotation marks
+
+
+IN CLAUSE - command - in (parameters or conditions)
+
+
