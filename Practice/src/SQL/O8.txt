@@ -28,4 +28,3 @@ case when amount<1000 then 'Under 1k'
                end as 'Customer Category'
                from sales
                order by Customers desc;
-                
