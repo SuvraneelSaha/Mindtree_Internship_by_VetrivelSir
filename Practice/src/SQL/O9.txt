@@ -1,1 +1,12 @@
 JOINS
+each column of a single table
+links up to a column in a different table
+
+ex - select s.SaleDate,s.Amount
+     from sales as s ;
+
+     from clause should be first written for easiness
+
+
+    Left Join is the most commonly used JOIN
+    
