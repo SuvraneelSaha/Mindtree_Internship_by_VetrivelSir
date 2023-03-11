@@ -1,0 +1,25 @@
+select * from sales ;
+// selects all the rows from the sales table
+
+short cut to run = cntrl + enter
+
+select SaleDate,Amount,Customers from sales;
+// selects all the rows with specific columns
+
+// another example -
+select Amount,Customers,GeoID from sales;
+
+
+
+//you dont need to worry about seeing all the data
+// only the inference of the working of the queries is important
+
+
+select SaleDate,Amount,Boxes, Amount / Boxes from sales;
+// for query calcualtion
+creates an column of amount/boxes
+
+select SaleDate,Amount,Boxes, Amount / Boxes as 'Amount per Box' from sales;
+
+creates a column named amount per box
+

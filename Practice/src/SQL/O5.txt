@@ -1,0 +1,17 @@
+Question
+
+return the rows where the saledate is friday
+ans - select SaleDate,Amount,Boxes,weekday(SaleDate) as 'Day of Week'
+      from sales
+      where 'Day of Week' = 4;
+
+      above query is problematic and error
+
+ans - select SaleDate,Amount,Boxes,weekday(SaleDate) as 'Day of Week'
+      from sales
+      where weekday(SaleDate) = 4;
+
+      // this one is the correct one
+
+
+
