@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Assessments/Assessments.iml" filepath="$PROJECT_DIR$/Assessments/Assessments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Learnings/Learnings.iml" filepath="$PROJECT_DIR$/Learnings/Learnings.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mentor Sessions/Mentor Sessions.iml" filepath="$PROJECT_DIR$/Mentor Sessions/Mentor Sessions.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Mindtree_Internship_by_VetrivelSir.iml" filepath="$PROJECT_DIR$/.idea/Mindtree_Internship_by_VetrivelSir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Learnings/MySQL.iml" filepath="$PROJECT_DIR$/Learnings/MySQL.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Weekly Assignments/Weekly Assignments.iml" filepath="$PROJECT_DIR$/Weekly Assignments/Weekly Assignments.iml" />
     </modules>

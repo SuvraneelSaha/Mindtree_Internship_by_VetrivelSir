@@ -1,0 +1,10 @@
+sequel
+
+Structured
+English query language
+
+now SQL or sequel
+
+thats the history behind it
+
+installation of MySQL

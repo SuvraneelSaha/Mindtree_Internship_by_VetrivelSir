@@ -1,0 +1,14 @@
+what is a database ?
+it is a collection of data stored in a format that can easily be accessed
+in order to manage databases we use dbms
+
+we connect to dbms for quering or modifying our data
+
+these are of two categories
+ relational and non relational
+
+ rel dbms - sql language
+ rdbms - mysql , sql server and oracle
+
+so we use sql to work with rdbms like mysql
+
