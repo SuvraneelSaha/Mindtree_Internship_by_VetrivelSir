@@ -9,4 +9,3 @@ ex - select s.SaleDate,s.Amount
 
 
     Left Join is the most commonly used JOIN
-    
