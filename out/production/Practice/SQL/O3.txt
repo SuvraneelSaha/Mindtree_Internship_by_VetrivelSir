@@ -1,0 +1,30 @@
+Where Clause
+
+in case of mysql
+date format is YY MM DD
+
+select * from sales
+where amount > 10000 and SaleDate >='2022-01-01';
+// select all the rows whose amount > 10000 and the date is greater than
+2022- 01-01
+
+select SaleDate , Amount from sales
+where amount > 10000 and year(SaleDate) = 2022
+order by amount desc;
+// selects the rows with columns saledate and amount
+and the rows will be accoring to the amount in descending order
+
+// Q: lets find out the sales where the number of boxes is between 0 to 50
+select * from sales
+where boxes > 0 and boxes <=50;
+// will show all the rows with all the boxes but only the rows
+with the boxes > 0 and boxes <= 50 will be shown
+
+Alternative Method to the same above query
+select * from sales
+where boxes between 0 and 50 ;
+
+here by using the between keyword
+we need to know that the 0 is also inclusive
+
+

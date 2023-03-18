@@ -1,0 +1,32 @@
+HOW TO IMPOSE ANY CONDITION USING SELECT STATMENT and Where
+
+select * from sales
+where Amount > 10000;
+// selects all the rows which has amount greater than 10000
+
+where is just like if (in java)
+
+select * from sales
+where Amount > 10000
+order by amount desc;
+// shows rows with column amount having value more than 10000
+
+
+// amount in descending order
+// otherwise in default case ascending order
+
+
+select * from sales
+where GeoID='g1'
+order by PID , Amount desc;
+// selects all the rows whose GeoId is g1
+and it orders it by Pid and Amount Descending
+
+// and where clause is (if statement in Java)
+// order by is like sorting
+
+
+
+
+
+
