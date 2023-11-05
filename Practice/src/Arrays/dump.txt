@@ -1,0 +1,15 @@
+package Arrays;
+
+import java.util.Scanner;
+
+// Create an array which is reverse of an original array
+        //
+
+        for(int x : arr1)
+        {
+            System.out.println(x);
+
+        }
+
+    }
+}
